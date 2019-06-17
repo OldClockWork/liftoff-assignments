@@ -24,6 +24,7 @@ Click the [P1 - Assignment Repository Setup](./P1-Assignment_Repository_Setup/) 
 ------------------------------------------------------------------------------------------------------------------------
 
 Overview
+
     A webapp that allows its users to create an account and organize lists of the type of hardware they're looking to
     buy as well as allow them to design their own rig to have the hardware they want in a PC. Once they've
     designed the kind of computer they want then the site will list the total price, processing speed, and the
@@ -49,9 +50,11 @@ Features
 
 
 Technologies
+
     Java, HTML, CSS, BootStrap, Thymeleaf, MySQL
 
 
 
 What you'll have to learn
+
     Javascript
